@@ -20,5 +20,3 @@ Los datos provienen del conjunto “Bank Marketing” (campañas de marketing te
   - Objetivo: `y` (suscripción a depósito a plazo: yes/no)
 
 Nota: En `analisis_bank.ipynb` se carga el CSV desde Google Drive. Para ejecución local, descargá el CSV desde UCI y ajustá la ruta.
-
-## Estructura del repositorio
